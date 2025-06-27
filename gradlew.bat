@@ -1,0 +1,3 @@
+@ECHO OFF
+SETLOCAL
+CALL gradlew %*
